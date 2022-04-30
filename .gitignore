@@ -1,0 +1,9 @@
+../.env
+.idea
+venv
+__pychache__/
+bot.sqlite3
+media
+requiments
+requirements
+bot.sqlite3
